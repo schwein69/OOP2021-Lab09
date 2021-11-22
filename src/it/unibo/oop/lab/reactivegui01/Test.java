@@ -8,7 +8,7 @@ public final class Test {
 
     private Test() { }
 
-    /**
+    /** 
      * Analyze the behavior of the CGUI.java file executing this test.
      * 
      * @param args
